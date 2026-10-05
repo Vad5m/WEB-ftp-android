@@ -1,6 +1,8 @@
 # WEB-ftp-android
 
 <img width="1920" height="1200" alt="изображение" src="https://github.com/user-attachments/assets/35c3929d-d57a-43ce-bc45-aa10d1f69380" />
+<img width="559" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/27deffe5-f119-478d-acbb-c87f8c07f76f" />
+
 
 
 # WebFTP
