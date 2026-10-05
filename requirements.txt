@@ -1,0 +1,3 @@
+kivy
+flask
+jnius; sys_platform == "android"
