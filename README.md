@@ -1,5 +1,8 @@
 # WEB-ftp-android
 
+<img width="1920" height="1200" alt="изображение" src="https://github.com/user-attachments/assets/35c3929d-d57a-43ce-bc45-aa10d1f69380" />
+
+
 # WebFTP
 
 A simple web-based file manager for Android (and beyond), built with Python + Kivy + Flask. It runs an HTTP server directly on the device, letting you browse and manage files from any browser on the same network.
